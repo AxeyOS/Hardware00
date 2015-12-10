@@ -1,3 +1,3 @@
 Escrever uma biblioteca de progamação da motherboard
-Escrever uma "BIOS" que detecte todas as placas conectadas a motherboard
+Escrever um bootloader com suporte a prioridades
 Escrever um sistema operacional
